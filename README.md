@@ -6,7 +6,7 @@ This is the project we build in my Ultimate React course. You can find the full 
 
 ## Getting Started
 
-To get started with GameHub, follow these steps:
+To get started with GameHub, follow these steps
 
 
 1. Clone this repository to your local machine.
